@@ -3,6 +3,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+//Variable para la cadena de conexion
+var connectionString = builder.Configuration.GetConnectionString("Connection");
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
