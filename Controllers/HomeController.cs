@@ -1,10 +1,12 @@
 using CRUD_CORE.Models;
+using CRUD_CORE.Permisos;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Text.Json;
 
 namespace CRUD_CORE.Controllers
 {
+    [ValidarSesion]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
