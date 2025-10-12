@@ -1,0 +1,10 @@
+C:\Users\User\Documents\ASP-NET\CRUD-CORE\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\Documents\ASP-NET\CRUD-CORE\obj\Debug\net8.0\CRUD-CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ASP-NET\CRUD-CORE\obj\Debug\net8.0\CRUD-CORE.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ASP-NET\CRUD-CORE\obj\Debug\net8.0\CRUD-CORE.AssemblyInfo.cs
+C:\Users\User\Documents\ASP-NET\CRUD-CORE\obj\Debug\net8.0\CRUD-CORE.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ASP-NET\CRUD-CORE\obj\Debug\net8.0\CRUD-CORE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\ASP-NET\CRUD-CORE\obj\Debug\net8.0\CRUD-CORE.RazorAssemblyInfo.cache
+C:\Users\User\Documents\ASP-NET\CRUD-CORE\obj\Debug\net8.0\CRUD-CORE.RazorAssemblyInfo.cs
+C:\Users\User\Documents\ASP-NET\CRUD-CORE\obj\Debug\net8.0\CRUD-CORE.sourcelink.json
+C:\Users\User\Documents\ASP-NET\CRUD-CORE\obj\Debug\net8.0\CRUD-CORE.csproj.AssemblyReference.cache
