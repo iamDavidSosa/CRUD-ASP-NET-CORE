@@ -27,6 +27,8 @@ namespace CRUD_CORE.Controllers
             return View();
         }
 
+
+
         [HttpPost]
         public IActionResult Registrar(Usuario oUsuario)
         {

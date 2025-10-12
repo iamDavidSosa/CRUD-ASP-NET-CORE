@@ -1,6 +1,7 @@
 using CRUD_CORE.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Text.Json;
 
 namespace CRUD_CORE.Controllers
 {
@@ -28,5 +29,13 @@ namespace CRUD_CORE.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public IActionResult CerrarSesion()
+        {
+            HttpContext.Session.Clear();
+            return RedirectToAction("Login", "Acceso");
+
+        }
+
     }
 }

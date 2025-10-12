@@ -9,7 +9,33 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>Login</title>
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="~/css/Login.css" asp-append-version="true" />
 </head>
 <body>
+    <div class="wrapper fadeInDown">
+        <div id="formContent">
+            <!-- Tabs Titles -->
+            <!-- Icon -->
+            <div class="fadeIn first">
+                <img src="~/img/LogoPulsoJoven.png" id="icon" alt="User Icon" />
+            </div>
+
+            <!-- Login Form -->
+            <form action="@Url.Action("Login", "Acceso")" method="post">
+                <input type="text" id="login" class="fadeIn second" name="usuario" placeholder="Usuario">
+                <input type="password" id="password" class="fadeIn third" name="clave" placeholder="Contraseña">
+                <input type="submit" class="fadeIn fourth" value="Iniciar Sesión">
+            </form>
+
+            <!-- Remind Passowrd -->
+            <div id="formFooter">
+                <a class="underlineHover" href="#">¿Olvidaste tu contraseña?</a>
+            </div>
+
+        </div>
+    </div>
 </body>
 </html>
