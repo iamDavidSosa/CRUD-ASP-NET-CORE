@@ -17,49 +17,61 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CRUD_CORE
 build_property.RootNamespace = CRUD_CORE
-build_property.ProjectDir = C:\Users\User\Documents\ASP-NET\CRUD-CORE\
+build_property.ProjectDir = C:\Users\ander\Documents\CRUD-ASP-NET\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\Documents\ASP-NET\CRUD-CORE
+build_property.MSBuildProjectDirectory = C:\Users\ander\Documents\CRUD-ASP-NET
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/User/Documents/ASP-NET/CRUD-CORE/Views/Acceso/Login.cshtml]
+[C:/Users/ander/Documents/CRUD-ASP-NET/Views/Acceso/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Documents/ASP-NET/CRUD-CORE/Views/Acceso/Registrar.cshtml]
+[C:/Users/ander/Documents/CRUD-ASP-NET/Views/Acceso/Registrar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXFJlZ2lzdHJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Documents/ASP-NET/CRUD-CORE/Views/Home/Index.cshtml]
+[C:/Users/ander/Documents/CRUD-ASP-NET/Views/Home/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ander/Documents/CRUD-ASP-NET/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Documents/ASP-NET/CRUD-CORE/Views/Home/Privacy.cshtml]
+[C:/Users/ander/Documents/CRUD-ASP-NET/Views/Home/Persona.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJzb25hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ander/Documents/CRUD-ASP-NET/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Documents/ASP-NET/CRUD-CORE/Views/Shared/Error.cshtml]
+[C:/Users/ander/Documents/CRUD-ASP-NET/Views/Shared/base.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGJhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ander/Documents/CRUD-ASP-NET/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Documents/ASP-NET/CRUD-CORE/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ander/Documents/CRUD-ASP-NET/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Documents/ASP-NET/CRUD-CORE/Views/_ViewImports.cshtml]
+[C:/Users/ander/Documents/CRUD-ASP-NET/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Documents/ASP-NET/CRUD-CORE/Views/_ViewStart.cshtml]
+[C:/Users/ander/Documents/CRUD-ASP-NET/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Documents/ASP-NET/CRUD-CORE/Views/Shared/_Layout.cshtml]
+[C:/Users/ander/Documents/CRUD-ASP-NET/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-i8sgvjb3c6

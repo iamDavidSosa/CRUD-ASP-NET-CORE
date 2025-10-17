@@ -15,7 +15,7 @@ namespace CRUD_CORE.Controllers
 {
     public class AccesoController : Controller
     {
-        static string cadena = "Server=HELIOS300\\SQLEXPRESS; Database=APP-NET-CORE; Trusted_Connection=True; TrustServerCertificate=True;";
+        static string cadena = "Server=ANDERSONSOSA\\SQLEXPRESS; Database=APP-NET-CORE; Trusted_Connection=True; TrustServerCertificate=True;";
 
         public IActionResult Login()
         {
