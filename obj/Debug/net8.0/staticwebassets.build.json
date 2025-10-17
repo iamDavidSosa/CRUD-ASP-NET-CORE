@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6GXUXr4yQcOZrlQwiq3iCmKdzX6Dc1bQEoRurmc1ZT8=",
+  "Hash": "kUGTydPw0zvNjamlKFsEgs8iof6fXis60bVwUvEZbhg=",
   "Source": "CRUD-CORE",
   "BasePath": "_content/CRUD-CORE",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fwemsevvcq",
-      "Integrity": "EcecTPXbpTzucsV0HeFgWVjUX9YjomR6EXds5EAqNCE=",
+      "Fingerprint": "0iqsi7qcih",
+      "Integrity": "KOPk4GrtUGAQ1Emkv4JxJL1qDrDvTHcOXrKyP5T9KGY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Base.css"
@@ -1569,6 +1569,51 @@
       ]
     },
     {
+      "Route": "css/Base.0iqsi7qcih.css",
+      "AssetFile": "C:\\Users\\ander\\Documents\\CRUD-ASP-NET\\wwwroot\\css\\Base.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1639"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KOPk4GrtUGAQ1Emkv4JxJL1qDrDvTHcOXrKyP5T9KGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Oct 2025 21:06:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0iqsi7qcih"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Base.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KOPk4GrtUGAQ1Emkv4JxJL1qDrDvTHcOXrKyP5T9KGY="
+        }
+      ]
+    },
+    {
       "Route": "css/Base.css",
       "AssetFile": "C:\\Users\\ander\\Documents\\CRUD-ASP-NET\\wwwroot\\css\\Base.css",
       "Selectors": [],
@@ -1579,7 +1624,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1522"
+          "Value": "1639"
         },
         {
           "Name": "Content-Type",
@@ -1587,11 +1632,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EcecTPXbpTzucsV0HeFgWVjUX9YjomR6EXds5EAqNCE=\""
+          "Value": "\"KOPk4GrtUGAQ1Emkv4JxJL1qDrDvTHcOXrKyP5T9KGY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:58:29 GMT"
+          "Value": "Fri, 17 Oct 2025 21:06:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1601,52 +1646,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EcecTPXbpTzucsV0HeFgWVjUX9YjomR6EXds5EAqNCE="
-        }
-      ]
-    },
-    {
-      "Route": "css/Base.fwemsevvcq.css",
-      "AssetFile": "C:\\Users\\ander\\Documents\\CRUD-ASP-NET\\wwwroot\\css\\Base.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1522"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EcecTPXbpTzucsV0HeFgWVjUX9YjomR6EXds5EAqNCE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:58:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fwemsevvcq"
-        },
-        {
-          "Name": "label",
-          "Value": "css/Base.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EcecTPXbpTzucsV0HeFgWVjUX9YjomR6EXds5EAqNCE="
+          "Value": "sha256-KOPk4GrtUGAQ1Emkv4JxJL1qDrDvTHcOXrKyP5T9KGY="
         }
       ]
     },

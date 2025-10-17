@@ -36,6 +36,16 @@ namespace CRUD_CORE.Controllers
             return View();
         }
 
+        public IActionResult Configuracion()
+        {
+            return View();
+        }
+
+        public IActionResult RegistroPersonas()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

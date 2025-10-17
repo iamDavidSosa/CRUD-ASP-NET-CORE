@@ -1,85 +1,86 @@
-﻿body {
-    background-color: #f5f6fa;
+﻿/* === General === */
+body {
+    background-color: #f9fafb;
     font-family: "Poppins", sans-serif;
+    margin: 0;
 }
 
+/* === Sidebar === */
 .sidebar {
-    height: 100vh;
-    background: linear-gradient(135deg, #0b5ed7, #0d6efd, #74b0ff);
-    background-size: 300% 300%;
-    animation: gradientMove 10s ease infinite;
-    color: #fff;
-    position: fixed;
     width: 240px;
+    height: 100vh;
+    position: fixed;
+    background: linear-gradient(135deg, #0d6efd, #0b5ed7);
+    color: white;
     display: flex;
     flex-direction: column;
+    padding-top: 1rem;
+    z-index: 1000;
 }
 
-@keyframes gradientMove {
-    0% {
-        background-position: 0% 50%;
-    }
-
-    50% {
-        background-position: 100% 50%;
-    }
-
-    100% {
-        background-position: 0% 50%;
-    }
-}
-
-.sidebar h3 {
-    text-align: center;
-    margin-top: 1.5rem;
+.sidebar-header h5 {
     font-weight: 600;
 }
 
-.nav-link {
-    color: #F5F5F5;
-    padding: 0.8rem 1.2rem;
+.sidebar .nav-link {
+    color: #f1f1f1;
+    padding: 0.75rem 1.25rem;
+    margin: 0.25rem 1rem;
     border-radius: 6px;
-    margin: 0.3rem 1rem;
-    transition: background-color 0.2s;
+    transition: background-color 0.3s;
+    display: flex;
+    align-items: center;
 }
 
-    .nav-link:hover, .nav-link.active {
-        background-color: #0b5ed7;
-        color: #fff;
-    }
+.sidebar .nav-link:hover,
+.sidebar .nav-link.active {
+    background-color: rgba(255, 255, 255, 0.15);
+    color: #fff;
+}
 
+/* === Main Content === */
 .main-content {
     margin-left: 240px;
     padding: 2rem;
+    min-height: 100vh;
 }
 
 header {
-    background-color: #fff;
-    border-bottom: 1px solid #e2e8f0;
-    padding: 1rem 2rem;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e5e7eb;
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-radius: 8px;
 }
 
-    header h4 {
-        margin: 0;
-        color: #1e293b;
-    }
+header h5 {
+    margin: 0;
+    color: #1f2937;
+}
 
 .user-info {
-    font-size: 0.9rem;
-    color: #475569;
+    color: #6b7280;
+    font-size: 0.95rem;
 }
 
 .content-area {
-    margin-top: 1.5rem;
+    padding: 1rem;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.02);
 }
 
-footer {
+/* === Footer === */
+.page-footer {
     margin-top: 2rem;
     text-align: center;
+    color: #9ca3af;
     font-size: 0.85rem;
-    color: #94a3b8;
+}
+
+.sidebar footer {
+    margin-top: auto;
 }
